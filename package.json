@@ -1,0 +1,23 @@
+{
+  "name": "middleware-egg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliOJackson/Bangazon21-Express-Middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliOJackson/Bangazon21-Express-Middleware/issues"
+  },
+  "homepage": "https://github.com/EliOJackson/Bangazon21-Express-Middleware#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
